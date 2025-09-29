@@ -1,6 +1,4 @@
 
-
-
 Conversation with Gemini
 
 Grok_Evide...e_Combined
